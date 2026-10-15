@@ -1,0 +1,3 @@
+bridge/inbox.jsonl
+bridge/outbox.jsonl
+config.json.bak*
