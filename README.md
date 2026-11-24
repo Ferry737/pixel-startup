@@ -18,7 +18,7 @@ This repo is the **agent team workspace**: where the build is split into teams, 
 
 <div dir="rtl" align="right">
 
-##" این چیست؟
+### این چیست؟
 
 **جواب‌سریع** یک دستیار هوش مصنوعی است که به دایرکت اینستاگرام فروشگاه‌های کوچک به‌طور خودکار جواب می‌دهد. این مخزن، **دفتر کار تیم‌ها** است: هر تیم یک پوشه دارد، گزارش کارش را می‌نویسد، و یک داشبورد زنده وضعیت همه را نشان می‌دهد.
 
@@ -40,7 +40,7 @@ This repo is the **agent team workspace**: where the build is split into teams, 
  Instagram DM ──▶ JavabFast assistant ──▶ reply  (shop's tone, Persian)
                         │
                         ▼
-        ┌───────────────────────────────────────���
+        ┌───────────────────────────────────────┐
         │  Agent teams (this repo)              │
         │  teams/<team>/report.md  ── every run  │
         └──────────────────┬────────────────────┘
